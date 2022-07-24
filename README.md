@@ -1,1 +1,1 @@
-# jasmine-node-playground
+# Working starter for using Jasmine with Wallaby
